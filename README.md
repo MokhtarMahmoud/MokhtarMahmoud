@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MokhtarMahmoud
-- 👀 I’m interested in Mobile Application
-- 🌱 I’m currently learning Android by using Java and kotlin
-- 💞️ I’m looking to collaborate on make Mobile Application
+- 👀 I’m a Front-End Devolper
 - 📫  Email: Mokhtarmm17@gmail.com   - phone : 01110538426 - 01008974112
 
 <!---
